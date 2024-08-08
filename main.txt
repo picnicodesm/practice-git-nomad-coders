@@ -1,1 +1,2 @@
-Title: Practice Git NomadCoders
+Title: Practice Git with NomadCoders
+Subtitle: Hello how are you
